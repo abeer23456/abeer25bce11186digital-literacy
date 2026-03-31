@@ -1,4 +1,4 @@
-## Social Media Do's and Don'ts
+## Social Media Do's and Don'ts for College Students
 
 | Do's ✅ | Don'ts ❌ |
 |--------|----------|
