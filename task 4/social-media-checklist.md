@@ -2,8 +2,8 @@
 
 | Do's ✅ | Don'ts ❌ |
 |--------|----------|
-| Maintain a professional and respectful tone | Share personal or sensitive information |
-| Think before posting content | Post offensive or inappropriate content |
-| Use strong privacy settings | Engage in online arguments or negativity |
-| Verify information before sharing | Spread misinformation or fake news |
-| Build a positive digital footprint | Use unprofessional language in formal contexts |
+| Use your profile to highlight academic work, projects, and achievements | Post content that could harm your academic or professional reputation |
+| Maintain respectful communication with peers, faculty, and professionals | Engage in online conflicts, trolling, or disrespectful behavior |
+| Share useful and credible information related to your field of study | Spread misinformation or blindly repost unverified content |
+| Build connections with classmates, seniors, and industry professionals | Ignore privacy settings and expose personal information publicly |
+| Think before posting, keeping long-term career impact in mind | Use inappropriate language or content that reflects poorly on you |
