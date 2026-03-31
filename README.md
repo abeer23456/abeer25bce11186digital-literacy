@@ -41,7 +41,7 @@ Set up and optimized professional profiles on platforms such as GitHub and Linke
 ### 🔹 Task 3 – Platforms & Collaboration
 Explored coding platforms and completed beginner-level challenges. Additionally, created a Google Form quiz to assess digital literacy awareness among peers.
 
- **Google Form Link:** *https://docs.google.com/forms/d/e/1FAIpQLSdvJq2Kq5bDe_pSxYgdX1xXxMg6ggb5oOUQJlsq52M9gS-SBg/viewform?usp=sharing&ouid=107651059962348349195*
+ **Google Form Link:** *https://docs.google.com/forms/d/e/1FAIpQLSdvJq2Kq5bDe_pSxYgdX1xXxMg6ggb5oOUQJlsq52M9gS-SBg/viewform?usp=header*
 
 ---
 
